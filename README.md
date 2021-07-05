@@ -1,3 +1,4 @@
+
 # Sistema de control de parking automatizado por software
 
 El proyecto recogido por este documento nació del interés por el mundo de la programación por parte del autor del documento, Miguel Ángel Sastre Gálvez, que durante los 2 años cursados en el I.E.S Felipe Solís Villechenous (Cabra) ha ido conociendo de la mano de Leonardo Cano Ocaña, tutor de este proyecto.
@@ -9,14 +10,44 @@ Por supuesto, todo esto se acompaña junto al resto de conocimiento adoptados a 
 En resumidas cuentas, el proyecto desde el punto de vista del autor, cubre sobradamente muchos de los aspectos de los cursados en el grado dando un proyecto variado, completo y a la altura.
 
 ## Organización del repositorio.
-### Código Arduino
+```
+--- Código Arduino  
+      |--- Demos
+      |--- Librerias arduino
+      |--- Version_1.0a
+      |--- tags apertura.txt
+--- Código Interfaz
+      |--- librería
+      |--- Ayuda.txt
+      |--- Project1.cpp
+      |--- Unit1.cpp
+--- Documentación
+      |--- Planos
+      |--- 1.Portada.docx
+      |--- 2.Pagina2.docx
+      |--- 3.Sistema de Control de Parking Automatizado por Software.docx
+--- Interfaz ejecutable
+      |--- ico
+      |--- Interfaz de SCPAS.exe
+```
+#### Código Arduino 
+Contiene el código principal del proyecto que se ejecutaba sobre una placa Arduino Mega 2560, las librerías usadas en el proyecto y códigos de ejemplo (demos) usados para entender el funcionamiento de cada uno de los módulos usados. 
+ 
+Lenguaje usado Pascal.
 
-### Código Interfaz
+#### Código Interfaz
+Contiene el código usando para la creación de la interfaz.
 
-### Documentación
+Lenguaje usado C++.
 
-### Ejecutable de la interfaz
+#### Documentación
+Contiene toda la documentación elaborada para el proyecto, siguiendo el mismo patrón que siguen los proyectos reales.
 
+#### Ejecutable de la interfaz
+Pequeño ejecutable que arranca la interfaz.
+
+## Wiki
+[Documentación del proyecto](https://github.com/Sastre113/Proyecto-Final-CFGS/wiki)
 
 ***
 Realizado por Miguel Á. Sastre Gálvez, 2016.
