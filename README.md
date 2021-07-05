@@ -45,6 +45,7 @@ Contiene toda la documentación elaborada para el proyecto, siguiendo el mismo p
 
 #### Ejecutable de la interfaz
 Pequeño ejecutable que arranca la interfaz.
+![image](https://user-images.githubusercontent.com/22893383/124522002-e09a5680-ddf1-11eb-871f-63188a226911.png)
 
 ## Wiki
 [Documentación del proyecto](https://github.com/Sastre113/Proyecto-Final-CFGS/wiki)
