@@ -7,3 +7,6 @@ Por tanto, este proyecto surge de la búsqueda de ampliar y expandir el conocimi
 Por supuesto, todo esto se acompaña junto al resto de conocimiento adoptados a lo largo de los años cursados en el centro para la elaboración completa del proyecto, donde se incluyen conocimientos para la elaboración de proyectos técnicos de telecomunicaciones, la elaboración de planos con AutoCAD, el conocimiento desde los componentes más básicos de la electrónica hasta los más complejos y como estos interactúan con otros componentes.
 
 En resumidas cuentas, el proyecto desde el punto de vista del autor, cubre sobradamente muchos de los aspectos de los cursados en el grado dando un proyecto variado, completo y a la altura.
+
+***
+Realizado por Miguel Á. Sastre Gálvez, 2016.
