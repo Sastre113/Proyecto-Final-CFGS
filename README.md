@@ -8,5 +8,15 @@ Por supuesto, todo esto se acompaña junto al resto de conocimiento adoptados a 
 
 En resumidas cuentas, el proyecto desde el punto de vista del autor, cubre sobradamente muchos de los aspectos de los cursados en el grado dando un proyecto variado, completo y a la altura.
 
+## Organización del repositorio.
+### Código Arduino
+
+### Código Interfaz
+
+### Documentación
+
+### Ejecutable de la interfaz
+
+
 ***
 Realizado por Miguel Á. Sastre Gálvez, 2016.
