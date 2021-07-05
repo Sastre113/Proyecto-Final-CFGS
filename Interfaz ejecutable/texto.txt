@@ -1,0 +1,4 @@
+Bienvenido a la interfaz para gestionar el Parking
+Sesion abierta con fecha de 05/07/2021 a la 23:41:12
+Sesión finalizada 05/07/2021 a la 23:41:13
+
