@@ -1,0 +1,6 @@
+Para ejecutar la interfaz en C++ Builder 6, es necesario instalar previamente la libreria CPortLib en C++ Builder 6.
+
+Pasos a seguir para su instalación.
+http://perso.wanadoo.es/pictob/tcomport.htm#instalacion_de_tcomport_en_borland_c___builder_6
+
+Proyecto creado por Miguel Ángel Sastre Gálvez

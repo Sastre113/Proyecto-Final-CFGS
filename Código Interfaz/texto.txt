@@ -1,0 +1,67 @@
+Bienvenido a la interfaz para gestionar el Parking
+Sesion abierta con fecha de 15/06/2016 a la 23:37:32
+Conectado al dispositivo Arduino usando el puerto COM3
+Iniciando la función para sincronizar la Interfaz con Arduino
+Por favor, tenga paciencia
+// Apagando la iluminacion del parking //
+// Apagando ventilación del parking //
+// Actualizando estado de la barrera //
+// Apagando iluminacion de emergencia //
+// Alarma Activada //
+// Actualizando estado de la barrera //
+// Actualizando estado de las plazas //
+// Alarma Desactivada //
+// Actualizando temperatura del parking //
+// Actualizando estado de los usuarios //
+// Actualizando humedad del parking //
+// Alarma Activada //
+// Actualizando estado de la barrera //
+// Alarma Desactivada //
+// Alarma Activada //
+// Alarma Desactivada //
+// Actualizando estado de la barrera //
+// Alarma Activada //
+// Actualizando estado de las plazas //
+// Actualizando temperatura del parking //
+// Actualizando estado de los usuarios //
+// Actualizando estado de la barrera //
+// Actualizando humedad del parking //
+// Actualizando estado de la barrera //
+// Alarma Desactivada //
+// Alarma Activada //
+// Alarma Desactivada //
+// Actualizando estado de la barrera //
+// Actualizando estado de las plazas //
+// Alarma Activada //
+// Alarma Desactivada //
+// Actualizando temperatura del parking //
+// Actualizando estado de los usuarios //
+// Alarma Activada //
+// Actualizando humedad del parking //
+// Alarma Desactivada //
+// Actualizando estado de la barrera //
+// Alarma Activada //
+// Alarma Desactivada //
+// Alarma Activada //
+// Alarma Desactivada //
+// Actualizando estado de la barrera //
+// Actualizando estado de las plazas //
+// Alarma Activada //
+1º plaza libre
+// Actualizando temperatura del parking //
+// Actualizando estado de los usuarios //
+// Actualizando estado de la barrera //
+// Actualizando humedad del parking //
+// Alarma Desactivada //
+// Alarma Activada //
+// Actualizando estado de la barrera //
+// Alarma Desactivada //
+// Actualizando estado de la barrera //
+// Alarma Activada //
+// Actualizando estado de las plazas //
+// Alarma Desactivada //
+// Actualizando temperatura del parking //
+// Actualizando estado de los usuarios //
+// Actualizando estado de la barrera //
+Sesión finalizada 15/06/2016 a la 23:38:04
+

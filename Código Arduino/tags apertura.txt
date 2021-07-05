@@ -1,0 +1,2 @@
+Card UID: 73 20 7B 25 --> ID blanca
+Card UID: E6 2B EE 30 --> ID azul
