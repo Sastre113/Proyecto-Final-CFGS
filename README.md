@@ -49,6 +49,9 @@ Pequeño ejecutable que arranca la interfaz.
 
 ## Wiki
 [Documentación del proyecto](https://github.com/Sastre113/Proyecto-Final-CFGS/wiki)
+[Memoria](https://github.com/Sastre113/Proyecto-Final-CFGS/wiki/Memoria)
+[Planos]https://github.com/Sastre113/Proyecto-Final-CFGS/wiki/Planos
+[Pliego de Condiciones]https://github.com/Sastre113/Proyecto-Final-CFGS/wiki/Pliego-de-condiciones
 
 ***
 Realizado por Miguel Á. Sastre Gálvez, 2016.
